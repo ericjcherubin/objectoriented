@@ -1,2 +1,3 @@
-# objectoriented
-These were made for Object-Oriented Programming class using C++
+These programs were made in C++
+
+Use Visual Studio or use CodeBlocks to run these programs
